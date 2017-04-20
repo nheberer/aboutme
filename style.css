@@ -1,10 +1,14 @@
  div{
- 	color:orange;
+ 	color:black;
 
  	}
-#blog1{background:red}
-#blog2{background: blue}
-#blog3{background: purple}
-#blog4{color: brown}
-#blog5{color: green}
-#blog6{color: pink}
+#blog1{color:black}
+#blog2{color:black}
+#blog3{color:black}
+#blog4{color:black}
+#blog5{color:black}
+#blog6{color:black}
+#Hunting background-color:
+body{
+	background-color:green;
+}
